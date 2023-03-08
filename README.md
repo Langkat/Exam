@@ -10,6 +10,6 @@
 
 ====================
 
-### Xavier Bugtong
-### Rancil Aurora
-### Jose Evagelous Lawenko
+### *Xavier Bugtong*
+### *Rancil Aurora*
+### *Jose Evagelous Lawenko*
